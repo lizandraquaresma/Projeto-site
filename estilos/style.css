@@ -5,6 +5,7 @@
 
 body{
     background-color: lightpink;
+    
 }
 
 main{
@@ -13,4 +14,30 @@ main{
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+
+}
+
+h1{
+    font-size: 2em;
+    color: purple;
+}
+
+h2{
+    font-size:2em;
+    color: purple;
+}
+
+img.lado{
+    float: right;
+} 
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: darkorchid;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: rgb(189, 99, 235);
 }
